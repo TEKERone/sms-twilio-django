@@ -97,8 +97,6 @@ Debería verse como esta URL de muestra:
 Busque los números de teléfono en su tablero de Twilio, haga clic en el número y lo dirigirá a la configuración de ese número. 
 En la pestaña de configuración, desplácese hacia abajo y busque la sección de mensajes y reemplace el webhook predeterminado, 
   https://demo.twilio.com/welcome/sms/reply/.
-Pegue la URL en esta sección de la configuración del número de teléfono:    
-
-  ![Imagen de muestra] (smstwilio.png)
+Pegue la URL en esta sección de la configuración del número de teléfono.  
   
 ¡Intentemos enviar un mensaje al número que elegimos, y voila~!  
